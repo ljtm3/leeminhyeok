@@ -118,6 +118,9 @@
 		</dependency>        
 	</dependencies>
     <build>
+    	<defaultGoal>install</defaultGoal>
+        <directory>${basedir}/target</directory>
+        <finalName>edu_webapp</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-eclipse-plugin</artifactId>
