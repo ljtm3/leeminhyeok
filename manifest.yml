@@ -1,0 +1,8 @@
+---
+applications:
+- name: leeminhyuok
+  memory: 1024M
+  disk_quota: 1024M
+  instances: 1
+  host: leeminhyuok
+  domain: paas-ta.org
