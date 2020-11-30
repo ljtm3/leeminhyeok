@@ -80,4 +80,4 @@
 </ul>
 </section>
 
-<%@ include file="./sample/footer.jsp" %>
+<%@ include file="./include/footer.jsp" %>
